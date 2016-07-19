@@ -1,0 +1,4 @@
+Testing GIT versioning
+
+
+version 0.1 : GIT is initiated
