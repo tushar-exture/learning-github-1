@@ -3,4 +3,6 @@ Testing GIT versioning
 
 version 0.1 : GIT is initiated
 
-version 0.2 : This file is updated and should be staged and commited for use 
+version 0.2 : This file is updated and should be staged and commited for use
+
+version 0.3 : Oops! I forgot a small change, so now I should have v0.2 in staged and v0.3 in working area. SUCCESS!!! visually confirmed through MASTER branch history.
