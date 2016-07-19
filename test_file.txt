@@ -2,3 +2,5 @@ Testing GIT versioning
 
 
 version 0.1 : GIT is initiated
+
+version 0.2 : This file is updated and should be staged and commited for use 
