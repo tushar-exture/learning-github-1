@@ -9,4 +9,6 @@ version 0.3 : Oops! I forgot a small change, so now I should have v0.2 in staged
 
 version 0.4 : .ignorefile will ignore all the files from commiting to git repo. This is an essential function of github.
 
-version 0.5 : How to see git diff works, this command is added to test the verbose nature of git diff.
+version 0.5 : How to see git diff works, this command is added to test the verbose nature of git diff. SUCCESS !!!
+
+version 0.6 : This version of the file is not staged but edited. The Status , Diff and Diff -cached will give different results than above version
