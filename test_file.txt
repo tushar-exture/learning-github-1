@@ -11,4 +11,6 @@ version 0.4 : .ignorefile will ignore all the files from commiting to git repo. 
 
 version 0.5 : How to see git diff works, this command is added to test the verbose nature of git diff. SUCCESS !!!
 
-version 0.6 : This version of the file is not staged but edited. The Status , Diff and Diff -cached will give different results than above version
+version 0.6 : This version of the file is not staged but edited. The Status , Diff and Diff -cached will give different results than above version. SUCCESS!!!
+
+version 0.7 : Skip staging area and direct add with -a option on commit
