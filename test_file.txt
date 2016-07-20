@@ -23,4 +23,6 @@ version 1.0 : Task a.sharing is over.
 
 version 1.1 : Task b of inserting 10 files at the same time from different folder. All the files from different folder are commited.
 
-version 3.0 : Task e is to check the conflict when file is commited by two authors with different edits. A san commits version 2-2.1 and B san commit version 3. 
+version 3.0 : Task e is to check the conflict when file is commited by two authors with different edits. A san commits version 2-2.1 and B san commit version 3.PULL and PUSH , success.
+
+version 3.1 : Now lets try MERGE.This B san commit. 
