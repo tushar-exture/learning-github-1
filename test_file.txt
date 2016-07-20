@@ -27,6 +27,6 @@ version 2.0 : Task b over. 10 files from diferent folder with folders were share
 
 version 2.1 : Task c to check the difference in the version of Repo and local including comments and commits.
 
-version 3.0 : Task e is to check the conflict when file is commited by two authors with different edits. A san commits version 2-2.1 and B san commit version 3.PULL and PUSH , success.
+version 3.0 : Task e is to check the conflict when file is commited by two authors with different edits. A san commits version 2-2.1 and B san commit version 3.PULL and PUSH , SUCCESS!!!.
 
 version 3.1 : Now lets try MERGE.This B san commit. SUCCESS with CONFLICT merge!!
