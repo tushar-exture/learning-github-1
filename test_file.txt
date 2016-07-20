@@ -17,4 +17,4 @@ version 0.7 : Skip staging area and direct add with -a option on commit
 
 version 0.8 : Did lots of log testing, now onward to amending a commit. Staged. A line was added and removed using CHECKOUT command . SUCCESS!!!
 
-version 0.9 : This file is now hosted and shared by A san and B san together. This task is too stage and commit from 2 different users.
+version 0.9 : This file is now hosted and shared by A san and B san together. This task is too stage and commit from 2 different users. SUCCESS from A san. B san changes are here now.
